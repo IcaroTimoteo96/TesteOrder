@@ -14,11 +14,11 @@ O desafio solicitou a criação de testes automatizados para garantir a qualidad
 
 ### Order:
 
-- public int Id { get; set; }
-- public string CustomerName { get; set; }
-- public List<string> Products { get; set; } = new List<string>();
-- public decimal TotalAmount { get; set; }
-- public bool IsProcessed { get; private set; }
+- Id 
+- CustomerName 
+- Products 
+- TotalAmount 
+- IsProcessed 
 
 
 ## 3. Teste do seguintes cenários:
