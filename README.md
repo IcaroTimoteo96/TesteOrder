@@ -24,10 +24,9 @@ O desafio solicitou a criação de testes automatizados para garantir a qualidad
 ## 3. Teste do seguintes cenários:
 - Implemente testes para os seguintes cenários:
 - Adicionar um produto válido.
-- Adicionar um produto inválido (nome vazio ou preço zero/negativo).
+- Adicionar um produto inválido (nome vazio ou preço zero/negativo)
 - Processar um pedido com produtos.
-- Tentar processar um pedido vazio (deve lançar exceção).![Uploading Screenshot (10).png…]()
-
+- Tentar processar um pedido vazio (deve lançar exceção)
 
 # Desenvolvimento
 
