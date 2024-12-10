@@ -40,4 +40,4 @@ O desafio solicitou a criação de testes automatizados para garantir a qualidad
 
 ## Resultados
 
-![Uploading Screenshot (10).png…]()
+![Screenshot (10)](https://github.com/user-attachments/assets/64ef4436-6121-40aa-a4eb-4b8c085f1426)
